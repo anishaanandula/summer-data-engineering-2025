@@ -1,2 +1,2 @@
 # summer-data-engineering-2025
-A 10-week roadmap from Python to pipeline
+This is my 10-week Python-to-Pipeline learning roadmap to prepare for the Data Engineering track at Texas A&M. It includes weekly deliverables, prompting strategies, and real-world data tools.
